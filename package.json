@@ -1,0 +1,7 @@
+{
+  "main": "filer.js",
+  "dependencies": {
+    "node-fs": "^0.1.7",
+    "underscore": "^1.8.3"
+  }
+}
